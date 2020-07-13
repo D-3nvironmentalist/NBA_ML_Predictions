@@ -1,4 +1,4 @@
-# NBA-Predict <img align="right" width="75" height="155" src="https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png">
+# NBA Prediction Models <img align="right" width="75" height="155" src="https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png">
 
 
 Predicts NBA Games Using a Regression Model 
