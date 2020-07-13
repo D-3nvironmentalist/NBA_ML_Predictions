@@ -44,7 +44,7 @@ We pulled the total team statistic from the past three seasons and pulled the to
 We chose to use Linear Regession model as the data collected was quantitative and the linear regression was able to provide the best overall predictive analysis, showing R-squared to be ~.9
 
 ### Linear Regression
- ![Pred_Model1] (https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/Linear_Reg.PNG)
+ ![Pred_Model1](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/Linear_Reg.PNG)
 
 ### Lasso Model
  ![Pred_Model2](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/lasso_chart.PNG)  
