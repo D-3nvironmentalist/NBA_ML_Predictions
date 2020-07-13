@@ -1,7 +1,7 @@
 # NBA Prediction Models <img align="right" width="75" height="155" src="https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png">
 
 
-Predicts NBA Games Using a Regression Model 
+Predicts NBA Games Using Regression Models 
 
 # Model
 "The model uses seventeen factors scraped from sportsreference.com to determine the amount of games a team would win in any given season within the past five years. 
