@@ -29,7 +29,7 @@ Predicts NBA Games Using a Regression Model
 We pulled the total team statistic from the past three seasons and pulled the total Wins of the last three seasons and merged the data. We imported Pearson R and iterrated through the merged dataframe to check which if the teams statistics had the greatest affect of the overall team Wins. We selected the seventeen teams statistics that had an affect on wins greater than .4 and less than -.4 value. 
 
 ### Import api
-![Clean1](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/import_sports.PNG?raw=true)
+![Clean1](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/import_sports.PNG)
 ### Merge Data
 ![Clean2](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/Merge_Data.PNG) 
 ### Assign Values
