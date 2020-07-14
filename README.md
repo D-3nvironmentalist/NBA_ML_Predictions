@@ -1,10 +1,10 @@
 # NBA Prediction Models <img align="right" width="75" height="155" src="https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png">
 
 
-Predicts NBA Games Using Regression Models 
+Predicts NBA Games using Linear Regression Models 
 
-# Model
-The model uses seventeen factors scraped from sportsreference.com to determine the amount of games a team would win in any given season within the past five years. 
+# Models
+The models use seventeen factors scraped from sportsreference.com to determine the amount of games a team would win in any given season within the past three years. 
 
 * Def Rebounds   
 * FG%
@@ -26,7 +26,7 @@ The model uses seventeen factors scraped from sportsreference.com to determine t
 
 # **Cleaning Process**
 
-We pulled the total team statistic from the past three seasons and pulled the total Wins of the last three seasons and merged the data. We imported Pearson R and iterrated through the merged dataframe to check which if the teams statistics had the greatest affect of the overall team Wins. We selected the seventeen teams statistics that had an affect on wins greater than .4 and less than -.4 value. 
+We pulled the total team statistics from the past three seasons and pulled the total wins of the last three seasons and merged the data. We imported Pearson R and iterrated through the 2018-2019 statistics dataframe to check which of the teams statistics had the greatest affect of the overall team Wins. We selected the seventeen teams statistics that had an affect on wins greater than .4 and less than -.4 values. 
 
 ### Import API
 ![Clean1](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/import_sports.PNG)
