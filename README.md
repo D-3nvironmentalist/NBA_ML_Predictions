@@ -6,14 +6,22 @@ Predicts NBA Games Using Regression Models
 # Model
 "The model uses seventeen factors scraped from sportsreference.com to determine the amount of games a team would win in any given season within the past five years. 
 
-* Def Rebounds    * FG%
-* FG              * Opp Assists
-* Opp Blocks      * Opp Def Rebounds
-* OPP FG %        * OPP points
-* OPP 3 Pt %      * OPP total rebounds
-* OPP 2 Pt FG%    * Points
-* Rank            * 3 pt FG%
-* Total Rebounds  * 2 Pt FG % 
+* Def Rebounds   
+* FG%
+* FG            
+* Opp Assists
+* Opp Blocks     
+* Opp Def Rebounds
+* OPP FG %      
+* OPP points
+* OPP 3 Pt %     
+* OPP total rebounds
+* OPP 2 Pt FG% 
+* Points
+* Rank       
+* 3 pt FG%
+* Total Rebounds  
+* 2 Pt FG % 
 * Assists
 
 # **Cleaning Process**
