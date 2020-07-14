@@ -4,7 +4,7 @@
 Predicts NBA Games Using Regression Models 
 
 # Model
-"The model uses seventeen factors scraped from sportsreference.com to determine the amount of games a team would win in any given season within the past five years. 
+The model uses seventeen factors scraped from sportsreference.com to determine the amount of games a team would win in any given season within the past five years. 
 
 * Def Rebounds   
 * FG%
