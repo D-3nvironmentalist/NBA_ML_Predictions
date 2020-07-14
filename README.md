@@ -57,3 +57,11 @@ We chose to use Linear Regession model as the data collected was quantitative an
  ![Clean6](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/elastic_model.PNG) 
  
  ![Pred_Model4](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/ElasticModel.PNG) 
+ 
+ ### Unseen Predictions for 2018-2019
+ ![Clean7](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/Unseen_PredictionsPNG.PNG) 
+ 
+![Pred_Model5](https://github.com/D-3nvironmentalist/Project-3/blob/master/Images/Unseen_Predictions.PNG) 
+ 
+ # **Conclusions**
+ We did not believe the K means and Nueral Network would fit our questions and decided to use Linear Models that would reflect the data properly. Our model was able to predict the amount of wins a team would earn with a high degree of accuracy by using the highest correlating features. Using the same methods we created a model to predict future wins based on previous years statistic. Our models visualization can be seen at https://public.tableau.com/profile/stephanie.robalino#!/vizhome/Project-3_15944847830130/NBAPredictions?publish=yes.  
